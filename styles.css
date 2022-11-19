@@ -1,0 +1,61 @@
+.main {
+    padding-top: 20px;
+    padding-left: 70px;
+}
+
+.box {
+    max-width: 1020px;
+    display: grid;
+    grid-template-rows: 450px 200px;
+    grid-template-columns: 500px 500px;
+    grid-gap: 20px;
+}
+  
+.box1 {
+    background-image: url('https://post.healthline.com/wp-content/uploads/2020/08/3180-Pug_green_grass-732x549-thumbnail-732x549.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box2-nest {
+    display: grid;
+    grid-template-rows: 215px 215px;
+    grid-template-columns: 240px 240px;
+    grid-gap: 20px;
+}
+.box2-nest .b1 {
+    background-image: url('https://thumbs.dreamstime.com/b/happy-golden-retriever-puppy-seven-week-old-outdoors-sunny-day-46046484.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box2-nest .b2 {
+    background-image: url('https://s3-prod.dogtopia.com/wp-content/uploads/2019/03/0-570x380.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box2-nest .b3 {
+    background-image: url('http://www.petsworld.in/blog/wp-content/uploads/2015/03/How-To-Make-Your-Puppy-Gain-Weight.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box2-nest .b4 {
+    background-image: url('https://static8.depositphotos.com/1003131/1021/i/600/depositphotos_10213972-stock-photo-yellow-lab-puppy-in-the.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box3 {
+    background-image: url('https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F201030094143-stock-rhodesian-ridgeback.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box4 {
+    background-image: url('https://vcahospitals.com/-/media/2/vca/images/lifelearn-images-foldered/169/neut_thumbnail.ashx');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
